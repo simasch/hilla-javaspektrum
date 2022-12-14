@@ -56,7 +56,6 @@ export class MasterDetailView extends View {
                 >Save
                 </vaadin-button>
             </vaadin-form-layout>
-            </vaadin-vertical-layout>
         `;
     }
 
