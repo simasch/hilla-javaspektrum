@@ -2,7 +2,6 @@ import {Binder, field} from '@hilla/form';
 import '@vaadin/button';
 import '@vaadin/grid';
 import '@vaadin/horizontal-layout';
-import '@vaadin/vertical-layout';
 import '@vaadin/form-layout';
 import '@vaadin/text-field';
 import {html} from 'lit';
